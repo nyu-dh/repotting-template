@@ -1,4 +1,4 @@
-# CHANGE-ME-repotted 🌱 🍯
+# CHANGE-ME-repotted 🌱🍯
 __see:__ [nyu-dss/repotting-template](https://github.com/nyu-dss/repotting-template/)
 
 __site name:__  
