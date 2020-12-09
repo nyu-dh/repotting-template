@@ -13,7 +13,7 @@ __[WiP]__
 
 ## instructions
 + __setup__
-  - create a new repo from this template. the repo name should be "\<projectname\>-repotted"
+  - [create a new repo from this template](https://github.com/nyu-dss/repotting-template/generate). the new repo name should be "\<projectname\>-repotted"
   - clone the repo to your local machine + cd into it.
 + __copy__
   - copy the site using httrack. the command is
