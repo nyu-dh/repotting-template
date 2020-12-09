@@ -1,16 +1,9 @@
 # repotting-template
-quick and dirty template and guide for repotting live, static-ish sites with httrack and ruby tools for mac.
+quick and dirty template and guide for repotting live, static-ish sites with httrack and ruby tools for mac
 
 __[WiP]__
 
 <img alt="repotting photo" src="https://images.pexels.com/photos/4503267/pexels-photo-4503267.jpeg?auto=compress&cs=tinysrgb" width="400"/>
-
-## site info
-- __site name:__
-- __"old pot" url:__
-- __"new pot" url:__
-- __date repotted:__
-- __notes:__
 
 ## prerequisites
 - [homebrew](https://brew.sh/)
