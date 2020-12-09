@@ -3,7 +3,7 @@ quick and dirty template and guide for repotting live, static-ish sites with htt
 
 __[WiP]__
 
-![repotting photo](https://images.pexels.com/photos/4503267/pexels-photo-4503267.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260)
+<img alt="repotting photo" src="https://images.pexels.com/photos/4503267/pexels-photo-4503267.jpeg?auto=compress&cs=tinysrgb" width="400"/>
 
 ## site info
 - __site name:__
