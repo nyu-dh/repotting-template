@@ -1,4 +1,4 @@
-# repotting-template
+# repotting-template 🌱🍯
 quick and dirty template & guide for repotting live, static-ish sites with httrack and some ruby tools on mac
 
 <img alt="repotting photo" src="https://images.pexels.com/photos/4503267/pexels-photo-4503267.jpeg?auto=compress&cs=tinysrgb" width="400"/>
