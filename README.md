@@ -22,12 +22,10 @@ quick and dirty template & guide for repotting live, static-ish sites with httra
 ### 4. __check links__
   - run `$ ruby lib/check-links.rb src`. this will flag any broken links _within_ the site (not externally). totally up to you what to do with this information / whether or not to fix it.
 ### 5. __check html__
-  - run `$ ruby lib/check-html.rb src`. this will flag any HTML errors within the copied site. if there are no major errors, feel free to skip to step 8.
+  - run `$ ruby lib/check-html.rb src`. this will flag any HTML errors within the copied site. if there are no major errors, feel free to skip to step 7.
 ### 6. __tidy html__
-  - run `$ ruby lib/tidy-html.rb src`. this will attempt to automatically "tidy" some HTML errors.
-### 7. __check html again__
-  - run `$ ruby lib/check-html.rb src` to see if tidying worked. totally up to you what to do with this information / whether or not to fix it.
-### 8. __finish__
+  - run `$ ruby lib/tidy-html.rb src`. this will attempt to automatically "tidy" some HTML errors. you can check the HTML again using `$ ruby lib/check-html.rb src` to see if tidying worked. totally up to you what to do with this information / whether or not to fix it.
+### 7. __finish__
   - when you're done copying and tidying, rename this `README.md` file to `instructions.md`
   - next, fill out the `README-template.md` and rename it to `README.md`
   - add, commit, and push your changes (including the site `src`)
