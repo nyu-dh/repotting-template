@@ -1,5 +1,5 @@
 # repotting-template 🌱🍯
-Quick and messy template & guide for repotting live, static-ish sites with Httrack and some Ruby tools on Mac.  
+Template & guide for repotting sites as static copies with Httrack and some Ruby tools on Mac.  
 Inspired by [Repotting Old Digital Humanities Projects:
 Two Test Cases](https://thisismattmiller.com/post/repotting-old-digital-humanities-projects/) by Matt Miller. 
 
