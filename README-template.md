@@ -1,16 +1,11 @@
 # CHANGE-ME-repotted 🌱🍯
-__see:__ [nyu-dss/repotting-template](https://github.com/nyu-dss/repotting-template/)
 
-__site name:__  
+**see:** [nyu-dh/repotting-template](https://github.com/nyu-dh/repotting-template/)
 
+**site name:**
 
-__"old pot" url:__   
+**"old pot" url:**
 
+**"new pot" url:**
 
-__"new pot" url:__  
-  
-
-__date repotted:__  
-
-
-
+**date repotted:**

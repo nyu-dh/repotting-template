@@ -1,12 +1,11 @@
 require 'html-proofer'
 
 opts = {
-  check_external_hash: true,
-  allow_hash_href: true,
+  checks: ['Links', 'Scripts', 'Images'],
   disable_external: true,
-  empty_alt_ignore: true,
-  only_4xx: true,
-  verbose: true
+  ignore_empty_alt: true,
+  ignore_missing_alt: true,
+  enforce_https: false
 }
 
 HTMLProofer.check_directory(ARGV[0], opts).run

@@ -1,4 +1,4 @@
-require 'nokogumbo'
+require 'nokogiri'
 
 Dir.glob("./#{ARGV[0]}/**/*.html").each do |f|
   page = File.open(f).read()
